@@ -1,0 +1,5 @@
+2024-05-28T10:13:34+00:00	fluent.info	{"pid":26,"ppid":6,"worker":0,"message":"starting fluentd worker pid=26 ppid=6 worker=0"}
+2024-05-28T10:13:34+00:00	fluent.info	{"port":24224,"bind":"0.0.0.0","message":"listening port port=24224 bind=\"0.0.0.0\""}
+2024-05-28T10:13:34+00:00	fluent.info	{"worker":0,"message":"fluentd worker is now running worker=0"}
+2024-05-28T10:16:16+00:00	app.access	{"message":"Invalid input","username":"daryna","email":"spuskandarina73@gmail.com","password":"111","confirmPassword":"1111"}
+2024-05-28T10:16:37+00:00	app.access	{"message":"Successful sign up","username":"daryna","email":"spuskandarina73@gmail.com","password":"22","confirmPassword":"22"}
